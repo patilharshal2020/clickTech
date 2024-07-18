@@ -1,0 +1,8 @@
+.banner-img{
+    height: auto;
+}
+@media (min-width: 992px) {
+    .banner-img{
+        height: 45vh !important;
+    }
+}
